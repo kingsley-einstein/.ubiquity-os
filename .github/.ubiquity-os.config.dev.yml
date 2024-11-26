@@ -5,5 +5,6 @@ plugins:
           disabledCommands: []
           miscellaneous:
             maxConcurrentTasks: 3
+          configurableResponse: "This is Kingsley's personal Ubiquity OS"
         runsOn:
           ["issue_comment", "issue_comment.created", "issue_comment.edited"]
